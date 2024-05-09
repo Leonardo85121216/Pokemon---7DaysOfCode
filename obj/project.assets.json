@@ -241,11 +241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\Visual Studio\\projects\\ConsultaPokemons\\ConsultaPokemons.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Pokemon---7DaysOfCode\\ConsultaPokemons.csproj",
       "projectName": "ConsultaPokemons",
-      "projectPath": "O:\\Visual Studio\\projects\\ConsultaPokemons\\ConsultaPokemons.csproj",
+      "projectPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Pokemon---7DaysOfCode\\ConsultaPokemons.csproj",
       "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "O:\\Visual Studio\\projects\\ConsultaPokemons\\obj\\",
+      "outputPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Pokemon---7DaysOfCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -16,3 +16,22 @@ O:\Visual Studio\projects\ConsultaPokemons\obj\Debug\net8.0\ConsultaPokemons.pdb
 O:\Visual Studio\projects\ConsultaPokemons\obj\Debug\net8.0\ConsultaPokemons.genruntimeconfig.cache
 O:\Visual Studio\projects\ConsultaPokemons\obj\Debug\net8.0\ref\ConsultaPokemons.dll
 O:\Visual Studio\projects\ConsultaPokemons\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.sourcelink.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\refint\ConsultaPokemons.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\ConsultaPokemons.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\ConsultaPokemons.deps.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\ConsultaPokemons.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\ConsultaPokemons.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\ConsultaPokemons.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\Consulta.E8DB2A42.Up2Date
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ConsultaPokemons.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\Pokemon---7DaysOfCode\obj\Debug\net8.0\ref\ConsultaPokemons.dll

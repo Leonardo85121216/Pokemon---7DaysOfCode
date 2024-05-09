@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "143CnOmhCAHQeSBoZcC+ZVPMn1AEJanyav/n1UqFGfAcCw8+sn4MhEeiLNYiMb71pnlSuMYu2xbIzKAhOeve/Q==",
+  "dgSpecHash": "fEePglD7EFAUfI83e516yte+GAYFs8x/mAqyJm14htwlxnjMilbluNf0BLw8i2g0La5GGX7JKKh/KRYmE3Wp/g==",
   "success": true,
-  "projectFilePath": "O:\\Visual Studio\\projects\\ConsultaPokemons\\ConsultaPokemons.csproj",
+  "projectFilePath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\Pokemon---7DaysOfCode\\ConsultaPokemons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leonardo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",

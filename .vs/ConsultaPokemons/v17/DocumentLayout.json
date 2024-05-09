@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\pokemon---7daysofcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\pokemon---7daysofcode\\models\\requisicaopokeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|solutionrelative:models\\requisicaopokeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|c:\\users\\leonardo\\onedrive\\\u00E1rea de trabalho\\pokemon---7daysofcode\\models\\infospokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FF9F29-6CB9-41D4-B000-D2F0082532AB}|ConsultaPokemons.csproj|solutionrelative:models\\infospokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfosPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Models\\InfosPokemon.cs",
+              "RelativeDocumentMoniker": "Models\\InfosPokemon.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Models\\InfosPokemon.cs",
+              "RelativeToolTip": "Models\\InfosPokemon.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:08:19.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:57:17.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequisicaoPokeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Models\\RequisicaoPokeAPI.cs",
+              "RelativeDocumentMoniker": "Models\\RequisicaoPokeAPI.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\OneDrive\\\u00C1rea de Trabalho\\Pokemon---7DaysOfCode\\Models\\RequisicaoPokeAPI.cs",
+              "RelativeToolTip": "Models\\RequisicaoPokeAPI.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T21:53:53.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
