@@ -6,8 +6,9 @@ using System.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
+using ConsultaPokemons.Models;
 
-namespace ConsultaPokemons.Models
+namespace ConsultaPokemons.Service
 {
     public class RequisicaoPokeAPI
     {
