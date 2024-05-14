@@ -26,15 +26,15 @@ namespace ConsultaPokemons.Service
 
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
-                Console.WriteLine("--------------------------------------------------------------");
+                Console.WriteLine("-----------------------------INFORMAÇÕES----------------------------\n");
                 Console.WriteLine($"Altura: {infos.height}");
                 Console.WriteLine($"Peso: {infos.weight}");
                 Console.WriteLine("Habilidades:");
                 foreach (var habilidade in habilidades.abilities)
                 {
-                    Console.WriteLine(habilidade.ability.name);
+                    Console.WriteLine($"- {habilidade.ability.name}");
                 }
-                Console.WriteLine("--------------------------------------------------------------");
+                Console.WriteLine("\n-------------------------------------------------------------------");
             }
             else
             {
